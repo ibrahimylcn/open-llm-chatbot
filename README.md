@@ -26,7 +26,7 @@ Uygulama `http://localhost:5173` adresinde çalışacaktır.
 
 ## API Yapılandırması
 
-API Base URL: `http://10.108.250.137:8001`
+API Base URL: ``
 
 - `GET /v1/models` - Model listesi
 - `POST /v1/completions` - Prompt gönderimi
